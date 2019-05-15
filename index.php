@@ -4,4 +4,6 @@ declare(strict_types = 1);
 
 echo "Project start";
 
-echo 'Hello!';
+$name = 'Vytautas';
+
+echo 'Hello! ' . $name;
